@@ -20,3 +20,7 @@ A browser-based system called the Blood Bank Management System (BBMS) is created
 This also provides the stock of blood list and out of stock list.This project improves the E-Mail authentication followed as
 
 ![image](https://github.com/Vanguri-Manohar/Online-Blood-Bank-Management-System/assets/117053138/e879ed55-d6e6-4009-8a76-603bb092d1c1)
+
+![image](https://github.com/Vanguri-Manohar/Online-Blood-Bank-Management-System/assets/117053138/6acbf714-01cd-49dd-8249-0ae37ab9482f)
+
+
