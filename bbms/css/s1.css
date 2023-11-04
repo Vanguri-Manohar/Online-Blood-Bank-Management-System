@@ -1,0 +1,32 @@
+#full{
+	width: 100%;
+	height:auto;
+}
+#inner_full{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+#header{
+	width: 100%;
+	height: 50px;
+	background-color: red;
+	color: white;
+}
+#body{
+	width: 100%;
+	height: 400px;
+}
+#footer{
+	width: 100%;
+	height: 50px;
+	background-color: red;
+	color: white;
+}
+#form{
+	width:80%;
+	height: 40px;
+	background-color: red;
+	color: black;
+	border-radius: 10px;
+}
